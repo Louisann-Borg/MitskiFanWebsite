@@ -192,7 +192,7 @@
     }
 }
 
-@media (max-width:450ox){
+@media (max-width:450px){
     .container .box-container{
         grid-template-columns: 1fr;
     }
